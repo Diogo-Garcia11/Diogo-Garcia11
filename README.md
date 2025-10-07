@@ -9,7 +9,7 @@ Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um sit
 
 ### 🎯 Projetos em destaque:
 - 🧠 [TCC - Concursador, Site de Intensivo para Vestibulares](https://github.com/Diogo-Garcia11/Projeto-TCC-Concursador-Site)
-      ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Diogo-Garcia11/Projeto-TCC-Concursador-Site)
+      ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-Garcia11&show_icons=true&theme=tokyonight)
 - 📦 [Controle de Estoque em Python](https://github.com/Diogo-Garcia11/Controle-Estoque-Python)
 
 ---
