@@ -3,7 +3,7 @@
 Sou estudante da **FATEC Antônio Russo**, apaixonado por tecnologia e desenvolvimento web.  
 Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, desenvolvendo o Back-End com **Laravel, PHP, MySQL**.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DiogoGarcia/Projeto-TCC-Concursador-Site)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Diogo-Garcia11/Projeto-TCC-Concursador-Site)
 
 ---
 
