@@ -18,12 +18,11 @@ Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um sit
  **MySQL**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> <br/>
  **PHP**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/> <br/>
  **Laravel**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30"/> 
-
-
-
+ 
 ---
 ### 📧Contato
 Email: diogopinheirogarcia@gmail.com
+LinkedIn: https://www.linkedin.com/in/diogo-garcia-131634267/
 
 
 
