@@ -2,7 +2,9 @@
 
 Sou estudante da **FATEC Antônio Russo**, apaixonado por tecnologia e desenvolvimento web.  
 Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, desenvolvendo o Back-End com **Laravel, PHP, MySQL**.
-Atualmente estou **focando em Python**
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DiogoGarcia/Projeto-TCC-Concursador-Site)
+
 ---
 
 ### 🎯 Projetos em destaque:
@@ -10,4 +12,6 @@ Atualmente estou **focando em Python**
 - 📦 [Controle de Estoque em Python](https://github.com/DiogoGarcia/controle-estoque-python)
 
 ---
+
+Atualmente estou **focando em Python**
 
