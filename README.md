@@ -9,8 +9,8 @@ Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um sit
 ---
 
 ### 🎯 Projetos em destaque:
-- 🧠 [TCC - Site de Intensivo para Vestibulares](https://github.com/DiogoGarcia/tcc-intensivo)
-- 📦 [Controle de Estoque em Python](https://github.com/DiogoGarcia/controle-estoque-python)
+- 🧠 [TCC - Site de Intensivo para Vestibulares](https://github.com/Diogo-Garcia11/Projeto-TCC-Concursador-Site)
+- 📦 [Controle de Estoque em Python](https://github.com/Diogo-Garcia11/Controle-Estoque-Python)
 
 ---
 
