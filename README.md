@@ -9,7 +9,8 @@ Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um sit
 
 ### 🎯 Projetos em destaque:
 - 🧠 [TCC - Concursador, Site de Intensivo para Vestibulares](https://github.com/Diogo-Garcia11/Projeto-TCC-Concursador-Site) <br/>
-- 📦 [Controle de Estoque em Python](https://github.com/Diogo-Garcia11/Controle-Estoque-Python)
+- 📦 [Controle de Estoque em Python](https://github.com/Diogo-Garcia11/Controle-Estoque-Python) <br/>
+- 🐦 [Thanatos - ERP para funerárias e cemitérios (https://github.com/KeteliLino/Thanatos)
   
 ---
 
