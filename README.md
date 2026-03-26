@@ -1,14 +1,17 @@
 ### 👋 Olá, eu sou o Diogo Garcia!
 
 Sou estudante da **FATEC Antônio Russo**, apaixonado por tecnologia e desenvolvimento web. <br/> 
-Já desenvolvi un **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, como Dev Back-End usando **Laravel, PHP, MySQL**.
+Já desenvolvi um **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, como Dev Back-End usando **Laravel, PHP, MySQL**.
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Garcia11&layout=compact&theme=tokyonight)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Garcia11&layout=compact&theme=tokyonight)
 
+---
 
 ### Meu currículo:
-https://app.netlify.com/projects/curriculodiogogarcia/deploys
+https://curriculodiogogarcia.netlify.app/
+
 ---
 
 ### 🎯 Projetos em destaque:
@@ -27,9 +30,12 @@ https://app.netlify.com/projects/curriculodiogogarcia/deploys
  **Laravel**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30"/> 
  
 ---
+
 ### 📧Contato
 Email: diogopinheirogarcia@gmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/diogo-garcia-131634267/
+
+---
 
 
 
