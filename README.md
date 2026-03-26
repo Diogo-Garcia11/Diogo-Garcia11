@@ -24,6 +24,8 @@ https://curriculodiogogarcia.netlify.app/
  **MySQL**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> <br/>
  **PHP**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/> <br/>
  **Laravel**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30"/> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Garcia11&layout=compact&theme=tokyonight)
  
 ---
 
