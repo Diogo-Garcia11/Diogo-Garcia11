@@ -3,11 +3,16 @@
 Sou estudante da **FATEC Antônio Russo**, apaixonado por tecnologia e desenvolvimento web. <br/> 
 Já desenvolvi um **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, como Dev Back-End usando **Laravel, PHP, MySQL**.
 
----
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Garcia11&layout=compact&theme=tokyonight)
 
----
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Garcia11&layout=compact&theme=tokyonight)
+
+
+
+
+
 
 ### Meu currículo:
 https://curriculodiogogarcia.netlify.app/
