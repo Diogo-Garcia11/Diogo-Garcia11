@@ -26,7 +26,7 @@ https://curriculodiogogarcia.netlify.app/
  **MySQL**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> <br/>
  
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Diogo-Garcia11)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
