@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o Diogo Garcia!
 
-Sou estudante da **FATEC Antônio Russo**, apaixonado por tecnologia e desenvolvimento web. <br/> 
-Já desenvolvi um **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, como Dev Back-End usando **Laravel, PHP, MySQL**.
+<p style="text-align=justify">Sou estudante da **FATEC Antônio Russo**, apaixonado por tecnologia e desenvolvimento web. <br/> 
+Já desenvolvi um **TCC no meu técnico em Desenvolvimento de Sistemas**: um site de **intensivo para vestibulares**, como Dev Back-End usando **Laravel, PHP, MySQL**.<p/>
 
 ---
 
