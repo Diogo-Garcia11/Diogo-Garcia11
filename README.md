@@ -25,9 +25,6 @@ https://curriculodiogogarcia.netlify.app/
  **Laravel**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30"/> 
  **MySQL**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> <br/>
  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diogo-Garcia11&theme=tokyo-night)
-
 ---
 
 ### 📧Contato
