@@ -26,7 +26,7 @@ https://curriculodiogogarcia.netlify.app/
  **MySQL**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> <br/>
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Garcia11&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 ---
 
